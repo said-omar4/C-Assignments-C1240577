@@ -1,0 +1,11 @@
+C:\C# Projects\assignment_!\assignment_!\bin\Debug\assignment_!.exe.config
+C:\C# Projects\assignment_!\assignment_!\bin\Debug\assignment_!.exe
+C:\C# Projects\assignment_!\assignment_!\bin\Debug\assignment_!.pdb
+C:\C# Projects\assignment_!\assignment_!\obj\Debug\assignment_!.csproj.AssemblyReference.cache
+C:\C# Projects\assignment_!\assignment_!\obj\Debug\assignment__.Form1.resources
+C:\C# Projects\assignment_!\assignment_!\obj\Debug\assignment__.Properties.Resources.resources
+C:\C# Projects\assignment_!\assignment_!\obj\Debug\assignment_!.csproj.GenerateResource.cache
+C:\C# Projects\assignment_!\assignment_!\obj\Debug\assignment_!.csproj.CoreCompileInputs.cache
+C:\C# Projects\assignment_!\assignment_!\obj\Debug\assignment_!.exe
+C:\C# Projects\assignment_!\assignment_!\obj\Debug\assignment_!.pdb
+C:\C# Projects\assignment_!\assignment_!\obj\Debug\assignment_!.exe.config
